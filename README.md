@@ -26,8 +26,7 @@ Ultimate FPS Puzzle Kit
 
 # Future Work
 
-* Fix Portal Projections
-* Add UI
 * Add checkpoint system with database
-* Add Death System
+* Fix Bugs in Viewport mode
 * Add a secret ending
+  
