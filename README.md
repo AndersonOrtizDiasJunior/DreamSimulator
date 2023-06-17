@@ -1,5 +1,3 @@
-# Download Game Files
-You can download the Project [here](https://drive.google.com/file/d/1WWaPbPi4beVzJhvznHuNOEJZdbfXw0hs/view?usp=sharing).
 # Overview
 Dream Simulator is Game made with Unreal Engine 4 that explores the concept of Non-Eucledian spaces.
 
