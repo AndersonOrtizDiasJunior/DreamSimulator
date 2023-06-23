@@ -1,11 +1,9 @@
-# Download Game Files
-You can download the Project [here](https://drive.google.com/file/d/1WWaPbPi4beVzJhvznHuNOEJZdbfXw0hs/view?usp=sharing).
 # Overview
-Dream Simulator is Game made with Unreal Engine 4 that explores the concept of Non-Eucledian spaces.
+Dream Simulator is a Game made with Unreal Engine 4 that explores the concept of Non-Eucledian spaces.
 
-My objective was to demonstrate skills with the Unreal workflow and hability to  turn concepts in gameplay.
+My objective was to demonstrate skills with the Unreal workflow and the ability to turn concepts into gameplay.
 
-[Software Demo Video](https://www.youtube.com/watch?v=y6y4z1S6Q8M)
+[Software Demo Video](https://www.youtube.com/watch?v=vjllt9Hfjw4)
 
 # Development Environment
 
@@ -28,8 +26,7 @@ Ultimate FPS Puzzle Kit
 
 # Future Work
 
-* Fix Portal Projections
-* Add UI
 * Add checkpoint system with database
-* Add Death System
+* Fix Bugs in Viewport mode
 * Add a secret ending
+  
